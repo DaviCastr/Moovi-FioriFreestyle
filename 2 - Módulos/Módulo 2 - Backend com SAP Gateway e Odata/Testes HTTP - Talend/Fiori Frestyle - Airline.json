@@ -1,0 +1,231 @@
+{
+  "version": 6,
+  "entities": [
+    {
+      "entity": {
+        "type": "Project",
+        "id": "f482f1d8-bbd9-4d0c-a0c1-072a5b570d0b",
+        "name": "Fiori Frestyle"
+      },
+      "children": [
+        {
+          "entity": {
+            "type": "Scenario",
+            "id": "686cb922-17ac-492b-af95-407074604fa7",
+            "name": "Airline"
+          },
+          "children": [
+            {
+              "entity": {
+                "type": "Request",
+                "method": {
+                  "requestBody": true,
+                  "link": "http://tools.ietf.org/html/rfc7231#section-4.3.3",
+                  "name": "POST"
+                },
+                "body": {
+                  "formBody": {
+                    "overrideContentType": true,
+                    "encoding": "application/x-www-form-urlencoded",
+                    "items": []
+                  },
+                  "bodyType": "Text",
+                  "textBody": "{\n  \"AirlineID\": \"DV\",\n  \"AirlineName\": \"American Airlines\",\n  \"CurrencyCode\": \"USD\",\n  \"Url\": \"http://www.aa.com\",\n}"
+                },
+                "uri": {
+                  "query": {
+                    "delimiter": "&",
+                    "items": []
+                  },
+                  "scheme": {
+                    "name": "http",
+                    "version": "V11"
+                  },
+                  "host": "192.168.64.151:8000",
+                  "path": "/sap/opu/odata/sap/Y1_AIRLINE_DFLC_SRV/AirlineSet"
+                },
+                "id": "574eb335-485c-43ba-abf2-cc0a6ccd8754",
+                "name": "Airline - Post",
+                "headers": [
+                  {
+                    "enabled": true,
+                    "name": "Authorization",
+                    "value": "Basic ZGV2ZWxvcGVyOkRvd24xb2Fk"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "Accept",
+                    "value": "application/json"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "Content-Type",
+                    "value": "application/json"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "x-csrf-token",
+                    "value": "\tyo7RoSH5ab1NeyHqKMPn5A=="
+                  }
+                ]
+              }
+            },
+            {
+              "entity": {
+                "type": "Request",
+                "method": {
+                  "requestBody": true,
+                  "link": "http://tools.ietf.org/html/rfc7231#section-4.3.4",
+                  "name": "PUT"
+                },
+                "body": {
+                  "formBody": {
+                    "overrideContentType": true,
+                    "encoding": "application/x-www-form-urlencoded",
+                    "items": []
+                  },
+                  "bodyType": "Text",
+                  "textBody": "{\n  \"AirlineID\": \"DV\",\n  \"AirlineName\": \"Davi Airlines\",\n  \"CurrencyCode\": \"USD\",\n  \"Url\": \"http://www.aa.com\"\n}"
+                },
+                "uri": {
+                  "query": {
+                    "delimiter": "&",
+                    "items": []
+                  },
+                  "scheme": {
+                    "name": "http",
+                    "version": "V11"
+                  },
+                  "host": "192.168.64.151:8000",
+                  "path": "/sap/opu/odata/sap/Y1_AIRLINE_DFLC_SRV/AirlineSet('DV')"
+                },
+                "id": "56117a08-4c4a-404b-817f-782609d31840",
+                "name": "Airline - Put",
+                "headers": [
+                  {
+                    "enabled": true,
+                    "name": "Authorization",
+                    "value": "Basic ZGV2ZWxvcGVyOkRvd24xb2Fk"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "Accept",
+                    "value": "application/json"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "Content-Type",
+                    "value": "application/json"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "x-csrf-token",
+                    "value": "\tyo7RoSH5ab1NeyHqKMPn5A=="
+                  }
+                ]
+              }
+            },
+            {
+              "entity": {
+                "type": "Request",
+                "method": {
+                  "link": "http://tools.ietf.org/html/rfc7231#section-4.3.1",
+                  "name": "GET"
+                },
+                "body": {
+                  "formBody": {
+                    "overrideContentType": true,
+                    "encoding": "application/x-www-form-urlencoded",
+                    "items": []
+                  },
+                  "bodyType": "Text",
+                  "textBody": "{\n  \"AirlineID\": \"DV\",\n  \"AirlineName\": \"American Airlines\",\n  \"CurrencyCode\": \"USD\",\n  \"Url\": \"http://www.aa.com\",\n}"
+                },
+                "uri": {
+                  "query": {
+                    "delimiter": "&",
+                    "items": []
+                  },
+                  "scheme": {
+                    "name": "http",
+                    "version": "V11"
+                  },
+                  "host": "192.168.64.151:8000",
+                  "path": "/sap/opu/odata/sap/Y1_AIRLINE_DFLC_SRV/AirlineSet('DV')"
+                },
+                "id": "dee7c310-00fc-492f-aa44-c840d04413c7",
+                "name": "Airline - Get",
+                "headers": [
+                  {
+                    "enabled": true,
+                    "name": "Authorization",
+                    "value": "Basic ZGV2ZWxvcGVyOkRvd24xb2Fk"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "Accept",
+                    "value": "application/json"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "x-csrf-token",
+                    "value": "fetch"
+                  }
+                ]
+              }
+            },
+            {
+              "entity": {
+                "type": "Request",
+                "method": {
+                  "link": "http://tools.ietf.org/html/rfc7231#section-4.3.5",
+                  "name": "DELETE"
+                },
+                "body": {
+                  "formBody": {
+                    "overrideContentType": true,
+                    "encoding": "application/x-www-form-urlencoded",
+                    "items": []
+                  },
+                  "bodyType": "Text",
+                  "textBody": "{\n  \"AirlineID\": \"DV\",\n  \"AirlineName\": \"American Airlines\",\n  \"CurrencyCode\": \"USD\",\n  \"Url\": \"http://www.aa.com\",\n}"
+                },
+                "uri": {
+                  "query": {
+                    "delimiter": "&",
+                    "items": []
+                  },
+                  "scheme": {
+                    "name": "http",
+                    "version": "V11"
+                  },
+                  "host": "192.168.64.151:8000",
+                  "path": "/sap/opu/odata/sap/Y1_AIRLINE_DFLC_SRV/AirlineSet('DV')"
+                },
+                "id": "2abd089e-4242-4d2c-b5ed-c31f7c2c415c",
+                "name": "Airline - Delete",
+                "headers": [
+                  {
+                    "enabled": true,
+                    "name": "Authorization",
+                    "value": "Basic ZGV2ZWxvcGVyOkRvd24xb2Fk"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "Accept",
+                    "value": "application/json"
+                  },
+                  {
+                    "enabled": true,
+                    "name": "x-csrf-token",
+                    "value": "\tyo7RoSH5ab1NeyHqKMPn5A=="
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
