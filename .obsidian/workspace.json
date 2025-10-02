@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "af15db85bb8e8db2",
+    "type": "split",
+    "children": [
+      {
+        "id": "09cb4269bc26cbb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4068403f7462942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Módulos/Módulo 3 - Javascript/2 - Variáveis e Constantes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2 - Variáveis e Constantes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97f935563b5567a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5048ae7757f7289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff5205b6ea82a94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d45648614346425",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "53268754",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c5a5380d2c3603b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "right": {
+    "id": "9c619933fc3647bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "92824b998fd8a061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3941551d30d83df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SAP-CAP-Devs/Cursos/Moovi/CAP/2 - Módulos/Módulo 14 - Refatorando before create SelesORderHeaders/13 - Pequenos ajustes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 13 - Pequenos ajustes"
+            }
+          },
+          {
+            "id": "69c990252529f5c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC53985028/🕵🏻Análise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🕵🏻Análise"
+            }
+          },
+          {
+            "id": "510a62829df20b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/13 - Considerações finais.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 13 - Considerações finais"
+            }
+          },
+          {
+            "id": "10ef0487f6e7dc0f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f6a2563083b3f4cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2a26f5360aca97d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "media-extended:Open external media": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f4068403f7462942",
+  "lastOpenFiles": [
+    "2 - Módulos/Módulo 3 - Javascript/1 - Introdução ao JavaScript Básico.md",
+    "2 - Módulos/Módulo 3 - Javascript/2 - Variáveis e Constantes.md",
+    "2 - Módulos/Módulo 3 - Javascript",
+    "Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/Testes HTTP - Talend/Fiori Frestyle - Airline.json",
+    "Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/Testes HTTP - Talend",
+    "Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/13 - Considerações finais.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/11 - Implementando métodos de Update e Delete.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/12 - Análise de Erros e Debug.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/10 - Validações do método POST.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/9 - Implementando método POST.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/8 - Instalando o Json Formatter no chrome.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/7 - Ativando Serviço OData.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/6 - Implementando métodos de seleção.md",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/💡Ajuste.md",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste.png",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Modelos/Comentário de código.md",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/EF - Comgas Soluções - US 149342 - Marcação Multiconsumidor_v2.pdf",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1a15.tmp.68dd5919.pdf",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1A15.tmp",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso14E3.tmp",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/Análise Identificação Multiconsumidor.xlsx",
+    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/unconfirmed 622219.crdownload.68dd58dc.docx",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/5 - Criando associações e Objetos de Runtime.md",
+    "5-Git/Backup.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/4 - Construindo Serviço ODATA.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/3 - Primeiro exercício prático.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/2 - REST e ODATA.md",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/1 - Introdução.md",
+    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 9 - Aula 8/1 - Live.md",
+    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 7 - Aula 6/3 - Instalando o SAPGui.md",
+    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 7 - Aula 6/2 - Instalando o SAPGui.md",
+    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 7 - Aula 6/1 - Live.md",
+    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 8 - Aula 7/1 - Live.md",
+    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 6 - Aula 5/1 - Live.md",
+    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 3 - Aula 2/3 - Gerando Client Credentials (Desafio 2 - Missão 2).md",
+    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 3 - Aula 2/2 - Instalando o Postman (Desafio 2 - Missão 1).md",
+    "SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/6 - Instruções S4Hana.png",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMQ3X99CNY5JK05EGMZEG7.png",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AAEVKHYDVQ54PHK98PYX4Z.png",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMABTYAP0SGG64JEM0SF8J.png",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AM7772D37G4MW4HWKJEEMB.png",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5A9N5G59KWXS89ZC0X5MRD5.png",
+    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5A9DBEDGPRMJJNFX1J0E47S.png",
+    "SAP-Integration-Suite-Devs/Cursos/Lab2Learn/Jornada-Integration-Suite/Aula 4 - API Management.canvas",
+    "Atendimentos/Atendimentos-Accenture/AMS/Comgas/INC52771135/Anexos/Untitled.canvas"
+  ]
+}

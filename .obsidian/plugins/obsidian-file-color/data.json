@@ -1,0 +1,17 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "KBbkFlEKUzB1g0Ch0UmTI",
+      "name": "Purple",
+      "value": "#850aff"
+    },
+    {
+      "id": "PhbGRXKT1AxjocNmGIR-I",
+      "name": "Blue",
+      "value": "#078df2"
+    }
+  ],
+  "fileColors": []
+}
