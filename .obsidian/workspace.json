@@ -11,10 +11,24 @@
             "id": "971f02ff9d9072df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Módulos/Módulo 5 - Hello World com SAPUI5/1 - Pré requisitos do projeto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 - Pré requisitos do projeto"
             }
           }
         ]
@@ -197,10 +211,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cff5205b6ea82a94",
+  "active": "971f02ff9d9072df",
   "lastOpenFiles": [
-    "2 - Módulos/Módulo 4 - Overview de SAPUI5/1 - Introdução ao SAPUI5.md",
     "2 - Módulos/Módulo 4 - Overview de SAPUI5/2 - Estrutura padrão de uma aplicação UI5.md",
+    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/1 - Pré requisitos do projeto.md",
+    "2 - Módulos/Módulo 5 - Hello World com SAPUI5",
+    "2 - Módulos/Módulo 4 - Overview de SAPUI5/1 - Introdução ao SAPUI5.md",
     "2 - Módulos/Módulo 3 - Javascript/9  Bibliotecas e Frameworks.md",
     "2 - Módulos/Módulo 4 - Overview de SAPUI5",
     "Untitled",
@@ -232,12 +248,10 @@
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/EF - Comgas Soluções - US 149342 - Marcação Multiconsumidor_v2.pdf",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1a15.tmp.68dd5919.pdf",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1A15.tmp",
-    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso14E3.tmp",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/5 - Criando associações e Objetos de Runtime.md",
     "5-Git/Backup.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/4 - Construindo Serviço ODATA.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/3 - Primeiro exercício prático.md",
-    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/2 - REST e ODATA.md",
     "SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/6 - Instruções S4Hana.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMQ3X99CNY5JK05EGMZEG7.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AAEVKHYDVQ54PHK98PYX4Z.png",
