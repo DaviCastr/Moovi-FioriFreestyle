@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Módulos/Módulo 3 - Javascript/9  Bibliotecas e Frameworks.md",
+                "file": "2 - Módulos/Módulo 4 - Overview de SAPUI5/1 - Introdução ao SAPUI5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9  Bibliotecas e Frameworks"
+              "title": "1 - Introdução ao SAPUI5"
             }
           }
         ]
@@ -211,11 +211,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cff5205b6ea82a94",
+  "active": "8c64f2662410ef0b",
   "lastOpenFiles": [
+    "2 - Módulos/Módulo 3 - Javascript/9  Bibliotecas e Frameworks.md",
+    "2 - Módulos/Módulo 4 - Overview de SAPUI5/1 - Introdução ao SAPUI5.md",
     "2 - Módulos/Módulo 4 - Overview de SAPUI5",
     "Untitled",
-    "2 - Módulos/Módulo 3 - Javascript/9  Bibliotecas e Frameworks.md",
     "2 - Módulos/Módulo 3 - Javascript/8 - Objetos e Tratamento de Exceções.md",
     "2 - Módulos/Módulo 3 - Javascript/7 - Funções.md",
     "2 - Módulos/Módulo 3 - Javascript/6 - Laços de Repetição.md",
@@ -245,7 +246,6 @@
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1a15.tmp.68dd5919.pdf",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1A15.tmp",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso14E3.tmp",
-    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/Análise Identificação Multiconsumidor.xlsx",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/5 - Criando associações e Objetos de Runtime.md",
     "5-Git/Backup.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/4 - Construindo Serviço ODATA.md",
