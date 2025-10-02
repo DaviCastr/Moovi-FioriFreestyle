@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d80ce86bc503cc",
+        "id": "691f471ff62e263e",
         "type": "tabs",
         "children": [
           {
-            "id": "d372e27bc4352995",
+            "id": "8c64f2662410ef0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Módulos/Módulo 3 - Javascript/8 - Objetos e Tratamento de Exceções.md",
+                "file": "2 - Módulos/Módulo 3 - Javascript/9  Bibliotecas e Frameworks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8 - Objetos e Tratamento de Exceções"
+              "title": "9  Bibliotecas e Frameworks"
             }
           }
         ]
@@ -211,10 +211,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d372e27bc4352995",
+  "active": "cff5205b6ea82a94",
   "lastOpenFiles": [
-    "2 - Módulos/Módulo 3 - Javascript/7 - Funções.md",
+    "2 - Módulos/Módulo 4 - Overview de SAPUI5",
+    "Untitled",
+    "2 - Módulos/Módulo 3 - Javascript/9  Bibliotecas e Frameworks.md",
     "2 - Módulos/Módulo 3 - Javascript/8 - Objetos e Tratamento de Exceções.md",
+    "2 - Módulos/Módulo 3 - Javascript/7 - Funções.md",
     "2 - Módulos/Módulo 3 - Javascript/6 - Laços de Repetição.md",
     "2 - Módulos/Módulo 3 - Javascript/5 - Ramificações e Operadores Lógicos.md",
     "2 - Módulos/Módulo 3 - Javascript/4 - Strings, Booleanos e Arrays Privado.md",
@@ -243,15 +246,12 @@
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1A15.tmp",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso14E3.tmp",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/Análise Identificação Multiconsumidor.xlsx",
-    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/unconfirmed 622219.crdownload.68dd58dc.docx",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/5 - Criando associações e Objetos de Runtime.md",
     "5-Git/Backup.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/4 - Construindo Serviço ODATA.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/3 - Primeiro exercício prático.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/2 - REST e ODATA.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/1 - Introdução.md",
-    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 9 - Aula 8/1 - Live.md",
-    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 7 - Aula 6/3 - Instalando o SAPGui.md",
     "SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/6 - Instruções S4Hana.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMQ3X99CNY5JK05EGMZEG7.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AAEVKHYDVQ54PHK98PYX4Z.png",
