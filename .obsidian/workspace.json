@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Módulos/Módulo 5 - Hello World com SAPUI5/3 - Criando uma conta Trial no SAP BTP.md",
+                "file": "2 - Módulos/Módulo 5 - Hello World com SAPUI5/4 - O que é SAP Business Application Studio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 - Criando uma conta Trial no SAP BTP"
+              "title": "4 - O que é SAP Business Application Studio"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "971f02ff9d9072df",
   "lastOpenFiles": [
-    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/2 - O que é o SAP BTP.md",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/3 - Criando uma conta Trial no SAP BTP.md",
+    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/4 - O que é SAP Business Application Studio.md",
+    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/2 - O que é o SAP BTP.md",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/1 - Pré requisitos do projeto.md",
     "2 - Módulos/Módulo 4 - Overview de SAPUI5/2 - Estrutura padrão de uma aplicação UI5.md",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5",
@@ -251,7 +252,6 @@
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1a15.tmp.68dd5919.pdf",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1A15.tmp",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/5 - Criando associações e Objetos de Runtime.md",
-    "5-Git/Backup.md",
     "SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/6 - Instruções S4Hana.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMQ3X99CNY5JK05EGMZEG7.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AAEVKHYDVQ54PHK98PYX4Z.png",
