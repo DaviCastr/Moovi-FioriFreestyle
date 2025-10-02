@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09cb4269bc26cbb8",
+        "id": "864cc16ed004e1dd",
         "type": "tabs",
         "children": [
           {
-            "id": "f4068403f7462942",
+            "id": "be89f6532b0e0bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Módulos/Módulo 3 - Javascript/2 - Variáveis e Constantes.md",
+                "file": "2 - Módulos/Módulo 3 - Javascript/3 - Números e operadores aritméticos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 - Variáveis e Constantes"
+              "title": "3 - Números e operadores aritméticos"
             }
           }
         ]
@@ -211,10 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4068403f7462942",
+  "active": "be89f6532b0e0bbb",
   "lastOpenFiles": [
-    "2 - Módulos/Módulo 3 - Javascript/1 - Introdução ao JavaScript Básico.md",
     "2 - Módulos/Módulo 3 - Javascript/2 - Variáveis e Constantes.md",
+    "2 - Módulos/Módulo 3 - Javascript/3 - Números e operadores aritméticos.md",
+    "2 - Módulos/Módulo 3 - Javascript/1 - Introdução ao JavaScript Básico.md",
     "2 - Módulos/Módulo 3 - Javascript",
     "Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/Testes HTTP - Talend/Fiori Frestyle - Airline.json",
     "Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/Testes HTTP - Talend",
@@ -251,7 +252,6 @@
     "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 8 - Aula 7/1 - Live.md",
     "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 6 - Aula 5/1 - Live.md",
     "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 3 - Aula 2/3 - Gerando Client Credentials (Desafio 2 - Missão 2).md",
-    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 3 - Aula 2/2 - Instalando o Postman (Desafio 2 - Missão 1).md",
     "SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/6 - Instruções S4Hana.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMQ3X99CNY5JK05EGMZEG7.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AAEVKHYDVQ54PHK98PYX4Z.png",
