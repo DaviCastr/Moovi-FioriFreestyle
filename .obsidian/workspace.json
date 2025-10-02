@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Módulos/Módulo 5 - Hello World com SAPUI5/5 - Criando Dev Spaces no SAP BAS.md",
+                "file": "2 - Módulos/Módulo 5 - Hello World com SAPUI5/6 - Mudando a Cor do Tema do SAP BAS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5 - Criando Dev Spaces no SAP BAS"
+              "title": "6 - Mudando a Cor do Tema do SAP BAS"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "971f02ff9d9072df",
   "lastOpenFiles": [
-    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/4 - O que é SAP Business Application Studio.md",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/5 - Criando Dev Spaces no SAP BAS.md",
+    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/6 - Mudando a Cor do Tema do SAP BAS.md",
+    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/4 - O que é SAP Business Application Studio.md",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/3 - Criando uma conta Trial no SAP BTP.md",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/2 - O que é o SAP BTP.md",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/1 - Pré requisitos do projeto.md",
@@ -248,7 +249,6 @@
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste.png",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos",
-    "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Modelos/Comentário de código.md",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/EF - Comgas Soluções - US 149342 - Marcação Multiconsumidor_v2.pdf",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1a15.tmp.68dd5919.pdf",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/mso1A15.tmp",
