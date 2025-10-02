@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61ca5eea63402b17",
+        "id": "f0d80ce86bc503cc",
         "type": "tabs",
         "children": [
           {
-            "id": "cac4fb1a83f310cd",
+            "id": "d372e27bc4352995",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Módulos/Módulo 3 - Javascript/4 - Strings, Booleanos e Arrays Privado.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4 - Strings, Booleanos e Arrays Privado"
+              "title": "New tab"
             }
           }
         ]
@@ -211,9 +197,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cac4fb1a83f310cd",
+  "active": "cff5205b6ea82a94",
   "lastOpenFiles": [
     "2 - Módulos/Módulo 3 - Javascript/4 - Strings, Booleanos e Arrays Privado.md",
+    "2 - Módulos/Módulo 3 - Javascript/5 - Ramificações e Operadores Lógicos.md",
     "2 - Módulos/Módulo 3 - Javascript/3 - Números e operadores aritméticos.md",
     "2 - Módulos/Módulo 3 - Javascript/2 - Variáveis e Constantes.md",
     "2 - Módulos/Módulo 3 - Javascript/1 - Introdução ao JavaScript Básico.md",
@@ -251,7 +238,6 @@
     "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 7 - Aula 6/2 - Instalando o SAPGui.md",
     "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 7 - Aula 6/1 - Live.md",
     "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 8 - Aula 7/1 - Live.md",
-    "SAP-Integration-Suite-Devs/Cursos/Moovi/Moovi-ImersaoSAPCloudIntegrationFirst/2 - Módulos/Módulo 6 - Aula 5/1 - Live.md",
     "SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/6 - Instruções S4Hana.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMQ3X99CNY5JK05EGMZEG7.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AAEVKHYDVQ54PHK98PYX4Z.png",
