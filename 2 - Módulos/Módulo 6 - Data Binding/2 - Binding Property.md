@@ -214,12 +214,12 @@ control.bindProperty("propertyName", "modelPath");
 ## 11. 🎓 Learning Outcomes
 
 ### **📚 Skills Acquired**
-- [ ] **✅ Create and configure** JSON models
-- [ ] **✅ Implement property binding** in XML views
-- [ ] **✅ Implement property binding** via JavaScript
-- [ ] **✅ Understand two-way binding** behavior
-- [ ] **✅ Configure models** in manifest.json
-- [ ] **✅ Debug binding issues**
+- [x] **✅ Create and configure** JSON models
+- [x] **✅ Implement property binding** in XML views
+- [x] **✅ Implement property binding** via JavaScript
+- [x] **✅ Understand two-way binding** behavior
+- [x] **✅ Configure models** in manifest.json
+- [x] **✅ Debug binding issues**
 
 ### **🚀 Next Steps**
 - **Aggregation Binding** (for lists and tables)
@@ -232,3 +232,26 @@ control.bindProperty("propertyName", "modelPath");
 Property Binding connects **UI control properties** with **model data**. You can implement it **declaratively in XML** or **programmatically in JavaScript**. JSON models provide **two-way binding** out of the box, keeping your UI synchronized automatically.
 
 **Ready to move to more advanced binding types!** 🎉
+
+# Typescript
+
+```javascript
+import Controller from "sap/ui/core/mvc/Controller";
+
+import Input from "sap/m/Input";
+
+/**
+ * @namespace apps.dflc.m06a02.controller
+ */
+export default class View1 extends Controller {
+
+    /*eslint-disable @typescript-eslint/no-empty-function*/
+    public onInit(): void {
+
+        let oCompanyInput2 = this.byId('companyInput2') as Input;
+
+        oCompanyInput2.bindProperty("value", "companyModel>/AirlineSet/AirlineName");
+
+    }
+}
+```
