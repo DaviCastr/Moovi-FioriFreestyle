@@ -148,7 +148,10 @@ webapp/
 
 ## 8. ✅ Achievement Unlocked!
 
+> [!note] Note
+> Someone of versions @sap/generator-fiori, the version 1.9.0 show the layout based of the tutorial
 
+![]("7 - Primeira aplicação SAPUI5.png")
 ### **🎊 What You've Accomplished**
 - [ ] **✅ Created** SAP Fiori application from template
 - [ ] **✅ Connected** to live OData service
