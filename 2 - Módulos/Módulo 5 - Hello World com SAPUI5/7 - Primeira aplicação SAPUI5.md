@@ -151,7 +151,11 @@ webapp/
 > [!note] Note
 > Someone of versions @sap/generator-fiori, the version 1.9.0 show the layout based of the tutorial
 
+VSCode:
 ![](7%20-%20Primeira%20aplicação%20SAPUI5.png)
+
+BAS:
+![](7%20-%20Primeira%20aplicação SAPUI5-1.png)
 ### **🎊 What You've Accomplished**
 - [ ] **✅ Created** SAP Fiori application from template
 - [ ] **✅ Connected** to live OData service
