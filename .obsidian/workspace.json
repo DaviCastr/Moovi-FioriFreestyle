@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Módulos/Módulo 6 - Data Binding/2 - Binding Property.md",
+                "file": "2 - Módulos/Módulo 6 - Data Binding/4 - Binding Aggregation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 - Binding Property"
+              "title": "4 - Binding Aggregation"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "971f02ff9d9072df",
   "lastOpenFiles": [
-    "2 - Módulos/Módulo 6 - Data Binding/3 - Binding Element.md",
     "2 - Módulos/Módulo 6 - Data Binding/2 - Binding Property.md",
+    "2 - Módulos/Módulo 6 - Data Binding/4 - Binding Aggregation.md",
+    "2 - Módulos/Módulo 6 - Data Binding/3 - Binding Element.md",
     "2 - Módulos/Módulo 6 - Data Binding/Anexos",
     "2 - Módulos/Módulo 6 - Data Binding/Anexos/2-BindingProperty.png",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/7 - Primeira aplicação SAPUI5.md",
@@ -253,7 +254,6 @@
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/11 - Implementando métodos de Update e Delete.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/12 - Análise de Erros e Debug.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/10 - Validações do método POST.md",
-    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/9 - Implementando método POST.md",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste.png",
