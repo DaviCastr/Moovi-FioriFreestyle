@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Módulos/Módulo 5 - Hello World com SAPUI5/7 - Primeira aplicação SAPUI5.md",
+                "file": "2 - Módulos/Módulo 6 - Data Binding/2 - Binding Property.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7 - Primeira aplicação SAPUI5"
+              "title": "2 - Binding Property"
             }
           }
         ]
@@ -211,15 +211,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "971f02ff9d9072df",
+  "active": "cff5205b6ea82a94",
   "lastOpenFiles": [
+    "2 - Módulos/Módulo 6 - Data Binding/Anexos",
+    "2 - Módulos/Módulo 6 - Data Binding/Anexos/2-BindingProperty.png",
+    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/7 - Primeira aplicação SAPUI5.md",
+    "2 - Módulos/Módulo 6 - Data Binding/2 - Binding Property.md",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/Anexos/7 - Primeira aplicação SAPUI5.png",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/Anexos/7 - Primeira aplicação SAPUI5-1.png",
     "2 - Módulos/Módulo 5 - Hello World com SAPUI5/Anexos",
     "1 - Projetos/UI5-Airline-SimpleWorklist",
     "1 - Projetos",
     "2 - Módulos/Módulo 6 - Data Binding/1 - Data Binding.md",
-    "2 - Módulos/Módulo 5 - Hello World com SAPUI5/7 - Primeira aplicação SAPUI5.md",
     "2 - Módulos/Módulo 6 - Data Binding",
     "7 - Primeira aplicação SAPUI5-1.png",
     "7 - Primeira aplicação SAPUI5.png",
@@ -251,14 +254,11 @@
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/12 - Análise de Erros e Debug.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/10 - Validações do método POST.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/9 - Implementando método POST.md",
-    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/8 - Instalando o Json Formatter no chrome.md",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste.png",
     "SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/6 - Instruções S4Hana.png",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMQ3X99CNY5JK05EGMZEG7.png",
-    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AAEVKHYDVQ54PHK98PYX4Z.png",
-    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMABTYAP0SGG64JEM0SF8J.png",
     "SAP-Integration-Suite-Devs/Cursos/Lab2Learn/Jornada-Integration-Suite/Aula 4 - API Management.canvas",
     "Atendimentos/Atendimentos-Accenture/AMS/Comgas/INC52771135/Anexos/Untitled.canvas"
   ]
