@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Módulos/Módulo 6 - Data Binding/4 - Binding Aggregation.md",
+                "file": "2 - Módulos/Módulo 6 - Data Binding/3 - Binding Element.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - Binding Aggregation"
+              "title": "3 - Binding Element"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "971f02ff9d9072df",
   "lastOpenFiles": [
-    "2 - Módulos/Módulo 6 - Data Binding/2 - Binding Property.md",
     "2 - Módulos/Módulo 6 - Data Binding/4 - Binding Aggregation.md",
+    "2 - Módulos/Módulo 6 - Data Binding/Anexos/4-BindingAggregation.png",
+    "2 - Módulos/Módulo 6 - Data Binding/2 - Binding Property.md",
     "2 - Módulos/Módulo 6 - Data Binding/3 - Binding Element.md",
     "2 - Módulos/Módulo 6 - Data Binding/Anexos",
     "2 - Módulos/Módulo 6 - Data Binding/Anexos/2-BindingProperty.png",
@@ -253,12 +254,10 @@
     "Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/13 - Considerações finais.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/11 - Implementando métodos de Update e Delete.md",
     "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/12 - Análise de Erros e Debug.md",
-    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 2 - Backend com SAP Gateway e Odata/10 - Validações do método POST.md",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste-1.png",
     "4-Atendimentos/Atendimentos-Accenture/AMS/Comgas/Chamados/INC54066333/Anexos/💡Ajuste.png",
     "SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/6 - Instruções S4Hana.png",
-    "SAP-UI5-Devs/Cursos/Moovi/Moovi-FioriFreestyle/2 - Módulos/Módulo 1 - Introdução/hover-notes-images/screenshot-01K5AMQ3X99CNY5JK05EGMZEG7.png",
     "SAP-Integration-Suite-Devs/Cursos/Lab2Learn/Jornada-Integration-Suite/Aula 4 - API Management.canvas",
     "Atendimentos/Atendimentos-Accenture/AMS/Comgas/INC52771135/Anexos/Untitled.canvas"
   ]
