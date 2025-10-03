@@ -149,7 +149,7 @@ webapp/
 ## 8. ✅ Achievement Unlocked!
 
 > [!note] Note
-> Someone of versions @sap/generator-fiori, the version 1.9.0 show the layout based of the tutorial
+> Someone of versions @sap/generator-fiori, the version 1.9.0 ou 1.9.6 show the layout based of the tutorial
 
 VSCode:
 ![](7%20-%20Primeira%20aplicação%20SAPUI5.png)
